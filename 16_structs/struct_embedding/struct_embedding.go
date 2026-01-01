@@ -17,6 +17,7 @@ type order struct {
 	customer  // struct embedding
 }
 
+// NOTE: Unlike nested structs, an embedded struct's fields are accessed at the top level like normal fields.
 func main() {
 	// newCustomer := customer{
 	// 	name:  "john",
@@ -32,6 +33,8 @@ func main() {
 		},
 		// customer:newCustomer,
 	}
-	newOrder.customer.name = "robin"
-	fmt.Println(newOrder)
+	// newOrder.customer.name = "robin"
+	newOrder.name = "robin"
+	// fmt.Println(newOrder)
+	fmt.Println(newOrder.name)
 }
