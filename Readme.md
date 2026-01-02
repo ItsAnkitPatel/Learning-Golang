@@ -4,6 +4,8 @@ This is just a simple repository to help me learn Golang. It contains various ex
 
 I am following this [Youtube series](https://www.youtube.com/playlist?list=PLXQpH_kZIxTWUe-Ee-DZEX5gfeoo4tHV6)
 
+And also I am using boot.dev's [Golang course](https://www.boot.dev/courses/learn-golang).
+
 Some other useful resources other than [go.dev](https://go.dev/):
 
 - [A Tour of Go](https://tour.golang.org/welcome/1)
