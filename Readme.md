@@ -16,3 +16,10 @@ Some other useful resources other than [go.dev](https://go.dev/):
 - [go101](https://go101.org/)
 - yourbasic.org - [Golang](https://yourbasic.org/golang/)
 - [Exercism - Go Track](https://exercism.org/tracks/go)
+  <br />
+  <br />
+
+### Some useful blog articles:
+
+- [Error handling in Go](https://go.dev/blog/error-handling-and-go)
+- [Best Practices for Interfaces in Go](https://blog.boot.dev/golang/golang-interfaces/)
