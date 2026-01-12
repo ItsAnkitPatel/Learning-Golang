@@ -23,3 +23,4 @@ Some other useful resources other than [go.dev](https://go.dev/):
 - [Error handling in Go](https://go.dev/blog/error-handling-and-go)
 - [Best Practices for Interfaces in Go](https://blog.boot.dev/golang/golang-interfaces/)
 - [Go Blogs](https://go.dev/blog/all)
+- [Go blogs by Dave Cheney](https://dave.cheney.net/practical-go)
