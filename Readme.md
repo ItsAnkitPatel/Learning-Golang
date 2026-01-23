@@ -20,6 +20,8 @@ Some other useful resources other than [go.dev](https://go.dev/):
   <br />
 
 ### Some useful blog articles:
+
+- [Table Driven Tests in Go](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 - [Error handling in Go](https://go.dev/blog/error-handling-and-go)
 - [Best Practices for Interfaces in Go](https://blog.boot.dev/golang/golang-interfaces/)
 - [Go Blogs](https://go.dev/blog/all)
